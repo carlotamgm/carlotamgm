@@ -5,10 +5,12 @@
 - ⚡ Fun fact: I love music, learning new languages and going out with my friends :)
 
 Languages and Frameworks I have used
-![Lenguajes](https://github.com/user-attachments/assets/ad4ec3c7-67b5-4ab3-95c6-43262c137800)
+
+![Lenguajes (1)](https://github.com/user-attachments/assets/8e5a0d89-863e-461c-a81a-b7a513134692)
 
 Social networks
-![Redes sociales](https://github.com/user-attachments/assets/95410f81-530d-45dd-8c03-08fa02d691c8)
+
+![Redes sociales](https://github.com/user-attachments/assets/e9a62f09-ea0e-4cc3-88cd-114b9ac8dd73)
 
 
 <!---
