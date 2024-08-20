@@ -6,7 +6,8 @@
 
 Languages and Frameworks I have used
 
-![Lenguajes (1)](https://github.com/user-attachments/assets/8e5a0d89-863e-461c-a81a-b7a513134692)
+![Lenguajes](https://github.com/user-attachments/assets/7d4e6e3a-96a4-4b49-9819-a3fded31f595)
+
 
 Social networks
 
