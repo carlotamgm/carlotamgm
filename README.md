@@ -11,9 +11,7 @@
 
 ### Social networks
 
-![Redes sociales](https://github.com/user-attachments/assets/e9a62f09-ea0e-4cc3-88cd-114b9ac8dd73)
-
-LinkedIn - https://www.linkedin.com/in/carlota-moncasi
+LinkedIn: https://www.linkedin.com/in/carlota-moncasi
 <!---
 carlotamgm/carlotamgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
