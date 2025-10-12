@@ -1,10 +1,10 @@
-## Hi, I’m Carlota Moncasi 👋
+## Hi, I am Carlota Moncasi :)
+- 🌱 I am a Computer Engineer, specialized in Software
 - 👀 I’m interested in programming, travelling and learning new things!
-- 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me: carlotamoncasi@gmail.com
-- ⚡ Fun fact: I love music, learning new languages and going out with my friends :)
+- I speak fluent english, french and spanish (my mother tongue) 
 
-### Languages and Frameworks I have used
+### Tech Stack
 
 ![Lenguajes](https://github.com/user-attachments/assets/7d4e6e3a-96a4-4b49-9819-a3fded31f595)
 
